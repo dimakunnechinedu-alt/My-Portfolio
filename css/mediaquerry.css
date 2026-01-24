@@ -1,0 +1,106 @@
+/* nest hub max */
+@media  screen and (max-width: 1280px){
+    
+
+}
+/* nest hub */
+@media  screen and (max-width: 1024px){
+   
+   
+    
+
+}
+/* surface pro 7 */
+@media  screen and (max-width: 912px){
+    
+
+}
+/* for ipad air */
+@media  screen and (max-width: 820px){
+    
+    
+}
+/* for ipad mini */
+@media  screen and (max-width: 768px){
+    
+
+}
+/* for surface duo */
+@media  screen and (max-width: 540px){
+    #sec7-inner{
+        flex-direction: column;
+    }
+    #sec7{
+        width: 98%;
+    }
+    #secbox7{
+        width: 98%;
+    }
+    #Developer{
+        font-size: 35px;
+    }
+    #sec7div, #sec7div1{
+        width: 98%;
+    }
+    #sec1box{
+        order: 2;
+    }
+    #sec1box2{
+        order: 1;
+    }
+   
+    
+    
+
+
+
+
+    
+}  
+
+/* for iphone 14 promax*/
+@media  screen and (max-width: 430px){
+   
+  
+    
+
+
+}
+
+/* for iphone XR*/
+@media  screen and (max-width: 414px){
+    
+}
+/* for Samsug galaxy s20 ultra*/
+@media  screen and (max-width: 412px){
+
+}
+@media  screen and (max-width: 393px){
+
+}
+/* for iphone 12 pro*/
+@media  screen and (max-width: 390px){
+
+}
+/* for iphone X*/
+@media  screen and (max-width: 375px){
+
+}
+/* for samsung galaxy s8+*/
+@media  screen and (max-width: 360px){
+    
+
+}
+/* for galaxy z fold 5*/
+@media  screen and (max-width: 344px){
+    
+    
+
+}
+/* for iphone 5/se*/
+@media  screen and (max-width: 320px){
+
+}
+@media  screen and (max-width: 280px){
+
+}
