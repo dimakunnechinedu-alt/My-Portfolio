@@ -48,6 +48,12 @@
     #sec1box2{
         order: 1;
     }
+    input{
+        width: 98%;
+    }
+    #textarea{
+        width: 98%;
+    }
    
     
     

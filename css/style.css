@@ -6,7 +6,7 @@
     text-decoration: none !important;
     scroll-behavior: smooth;
     color: white;
-    background-color: #0F172B;
+    background-color: #0F172B ;
     
     
    
@@ -20,6 +20,7 @@
     z-index: +6;
     position: sticky;
     top: 0;
+    
    
 }
 #head a{
@@ -37,7 +38,7 @@
 
 }
 #career{
-    font-weight: 40;
+    font-weight: lighter;
 }
 #sec2{
    background-color: #0F172B;   
@@ -50,9 +51,7 @@
 #project_sec{
     background-color: #0F172B;
 }
-.view a{
-    text-decoration: none;
-}
+
 
 #resume{
     width: 50%;
@@ -71,7 +70,7 @@
 #about{
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 45px;
+    font-size: 20px;
     /* color: white; */
 }
 .abouts{
@@ -81,7 +80,7 @@
 #Skills{
      font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 45px;
+    font-size: 20px;
 }
 .image2{
     width: 20px;
@@ -92,7 +91,7 @@
 #front{
      font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 45px;
+    font-size: 15px;
 }
 .furni{
     width: 100%;
@@ -156,7 +155,7 @@ input{
     background-color: white;
     padding: 1%;
     margin: 1%;
-    border: none;
+    border: 1px solid white;
 }
 #textarea{
     width: 68%;
