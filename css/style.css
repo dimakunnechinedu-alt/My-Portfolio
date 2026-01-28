@@ -188,6 +188,9 @@ background-color: #0F172B;
     text-decoration: none;
 
 }
+.navbar-toggler{
+    border: 2px solid white !important;
+}
 #subdiv a{
      text-decoration: none;
 
