@@ -59,9 +59,9 @@
 #name{
     font-weight: 900;
 }
-#typeText{
-    font-size: 22px;
-    font-weight: 500;
+#type{
+    font-size: 48px;
+    font-weight: lighter;
     
 }
 .social-media{
@@ -164,8 +164,8 @@ input{
     margin: 1%;
 }
 #button {
-     width: 38%;
-background-color: #0F172B;   
+    width: 38%;
+    background-color: #0F172B;   
     border-radius: 10px;
     padding: 1%;
     margin: 1%;
@@ -189,7 +189,7 @@ background-color: #0F172B;
 
 }
 .navbar-toggler{
-    border: 2px solid white !important;
+    border: 2px solid orange !important;
 }
 #subdiv a{
      text-decoration: none;

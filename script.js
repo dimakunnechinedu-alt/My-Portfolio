@@ -1,6 +1,5 @@
 const texts = [
-  "I am a Front-End Developer.",
-  " I create exicting stuff on the internet."
+  ""
 ];
 
 const speeds = 70;
